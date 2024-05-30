@@ -1,0 +1,87 @@
+
+.fbaccount
+{
+  margin:auto;
+  width:40%;
+}
+.fb 
+{
+  color: blue;
+  text-align: center;
+  font-size:45px;
+  padding-top: 30px;
+}
+.cna 
+{
+  font-size:25px;
+  margin-left:100px;
+}
+.state 
+{
+  margin-left:150px;
+  font-size: 20px;
+}
+.in1 
+{
+  width:220px;
+}
+.in2 
+{
+  margin-left: 20px;
+}
+.fbaccount input 
+{
+  height:35px;
+  border-radius:7px;
+  padding: 10px;
+}
+.l1 
+{
+  border:1px solid black;
+  border-radius: 6px;
+  font-size: 20px;
+  height:30px;
+  display:flex;
+  width:32%;
+}
+.rl 
+{
+  display: flex;
+}
+.mlabel 
+{
+  margin-left:10px;
+}
+.r1  
+{
+  margin-left:50px;
+}
+.para 
+{
+  font-size: 12px;
+}
+.fbaccount span 
+{
+  color:blue;
+}
+.fbaccount form 
+{
+  border:1px solid black;
+  padding:20px;
+}
+.fbaccount button 
+{
+  background-color:forestgreen;
+  border:none;
+  color:white;
+  padding:8px 60px;
+  margin-left:130px;
+  border-radius:10px;
+  font-size:20px;
+}
+.aha 
+{
+  color:#106eea;
+  margin-left:130px;
+  font-size:18px;
+}

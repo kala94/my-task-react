@@ -1,0 +1,229 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.col1
+{
+  width: 8.33%;
+}
+.col2
+{
+  width: 16.66%;
+}
+.col3
+{
+  width: 25%;
+}
+.col4
+{
+  width: 33.32%;
+}
+.col5
+{
+  width: 41.65%;
+}
+.col6
+{
+  width: 50%;
+}
+.col7
+{
+  width: 58.31%;
+}
+.col8
+{
+  width: 66.64%;
+}
+.col9
+{
+  width: 75%;
+}
+.col10
+{
+  width: 83.3%;
+}
+.col11
+{
+  width: 91.6%;
+}
+.col12
+{
+  width: 100%;
+}
+ul,ol,li 
+{
+   list-style-type: none;
+}
+.container 
+{
+  margin:auto;
+  width:70%;
+  padding-top:50px;
+}
+thead 
+{
+  text-align: center;
+  background-color: blue;
+  color:white;
+}
+td 
+{
+  text-align: center;
+}
+
+/* Functional Component */
+
+.funtable h3
+{
+  text-align: center;
+  color:red;
+}
+
+/* Class component */
+
+.listcon 
+{
+  margin:auto;
+  width:30%;
+}
+.head3 
+{
+  color:red;
+}
+.s1 
+{
+  color:blue;
+}
+.s2 
+{
+  color:darkorange;
+}
+
+/* Usestate */
+
+.mes1 
+{
+  color:blueviolet;
+}
+.btn1 
+{
+  color:red;
+  background-color:honeydew;
+  padding:5px 10px;
+  margin-left: 10px;
+  border:none;
+}
+
+/* Skilldetails */
+
+.espan span 
+{
+  color:cornflowerblue;
+}
+
+/* Routing */
+
+.page 
+{
+  display:flex;
+  justify-content: space-between;
+  font-size: 30px;
+  width:50%;
+  margin-left:250px;
+}
+.bimage
+{
+  background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(image/backimage.webp);
+  background-position: center;
+  background-size: cover;
+  height:450px;
+}
+.supname 
+{
+  color:red;
+  font-size: 70px;
+  text-align: center;
+  padding-top: 100px;
+}
+.unorder 
+{
+  display:flex;
+  font-size:30px;
+  color:greenyellow;
+}
+.unorder li 
+{
+  padding-left:70px;
+}
+.order1 
+{
+  display:flex;
+  font-size:25px;
+  color:white;
+  padding-left:80px;
+}
+.bimage form
+{
+  padding:20px;
+  width:25%;
+  margin-left:400px;
+  background-color: aqua;
+}
+.head1 
+{
+  text-align: center;
+  color: red;
+  font-size:40px;
+}
+.dashtable td 
+{
+  color:bisque;
+  font-size:20px;
+}
+.dashtable table 
+{
+  margin-left:350px;
+}
+.dashtable th
+{
+  font-size:25px;
+}
+.dashtable button 
+{
+  margin-left:500px;
+}
+
+/*  Crud Operation */
+
+.addform form 
+{
+   width:25%;
+   background-color: aqua;
+   margin-left:400px;
+   text-align:center;
+   padding: 20px;
+}
+.addform button 
+{
+  border:none;
+  padding:5px 15px;
+}
+
+/* Mounting */
+
+.spa1 
+{
+  color:brown;
+  font-size:25px;
+  padding-left: 300px;
+}
